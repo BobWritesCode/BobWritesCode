@@ -1,12 +1,12 @@
-# Warwick Hart
-
-## Aspiring Software Developer
+<h2 style="text-align: center;">Hi, :wave:</h2>
+<h4 style="text-align: center;">my name is</h4>
+<h1 style="text-align: center;">Warwick Hart</h1>
+<h4 style="text-align: center;">and I am an</h4>
+<h2 style="text-align: center;">Aspiring Software Developer</h2>
 
 ---
 
 ### About me
-
-:wave: Hi, I'm Warwick, an aspiring software developer ready to be challenged.
 
 I am currently working through project 4 of my full stack developer diploma. I have always loved computing and coding but I am now pushing myself to actually dedicate my life to it.
 
