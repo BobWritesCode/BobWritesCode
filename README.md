@@ -12,7 +12,7 @@
 </h2>
 
 <p align='left'>
-  I am currently working through Project 4 of my full stack developer diploma. I have always loved computing and coding, but I am now pushing myself to actually dedicate my life to it.
+  I just submitted my 4th Project for my Full Stack Developer diploma. I have always loved computing and coding, but I am now pushing myself to actually dedicate my life to it.
 </p>
 <p align='left'>
   When I am not coding, you may find me playing video games :video_game:, and more now than ever, I appreciate the dedication and hard work that goes into making them. Even when surfing the web now, I know the hours of pain and suffering that went into making that button work.
