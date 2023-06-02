@@ -12,7 +12,7 @@
 </h2>
 
 <p align='left'>
-  I have completed 4 out of 5 of my projects towards my Full Stack Developer diploma. I have always loved computing and coding, but I am now pushing myself to actually dedicate my life to it.
+  I have completed 5 out of 5 of my projects towards my Full Stack Developer diploma, and now I wait for the final result. I have always loved computing and coding, but I am now pushing myself to actually dedicate my life to it.
 </p>
 <p align='left'>
   When I am not coding, you may find me playing video games :video_game:, and more now than ever, I appreciate the dedication and hard work that goes into making them. Even when surfing the web now, I know the hours of pain and suffering that went into making that button work.
@@ -44,8 +44,8 @@
   What I am learning right now:
 </h3> 
 <p align='center'>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  
+  
 </p>
 
 <h3 align='center'>
@@ -53,6 +53,7 @@
 </h3> 
 <p align='center'>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 <h3 align='center'>
@@ -76,11 +77,20 @@
 </h4> 
 
 <p align='center'>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />&nbsp;
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<h4 align='center'>
+  Utilities
+</h4> 
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
